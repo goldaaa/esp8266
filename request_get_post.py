@@ -1,3 +1,7 @@
+__author__ = "navid nasiri"
+__github__ = "https://github.com/esp8266"
+__gmail__ = "goldaaa.program@gmail.com"
+
 import time
 import network
 
